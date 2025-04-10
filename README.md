@@ -1,3 +1,5 @@
+# Awesome A2A Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # What is A2A agents
 A2A is an open protocol enabling communication and interoperability between opaque agentic applications.
 [A2A draft specification](https://github.com/google/A2A), [blogs](https://google.github.io/A2A/#)
