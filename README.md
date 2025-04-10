@@ -16,8 +16,8 @@ A2A is an open protocol enabling communication and interoperability between opaq
 
 ## Tutorial
 - [How to Build Two Python Agents with Google’s A2A Protocol](https://www.aisharenet.com/a2a/)
-- [Understanding A2A payments: adoption and trends](https://thepaypers.com/understanding-a2a-payments-adoption-and-trends)  
-- [如何使用谷歌的A2A协议构建两个Python代理 - 分步教程](https://docs.kanaries.net/zh/articles/build-agent-with-a2a)  
+- [Understanding A2A payments: adoption and trends](https://thepaypers.com/understanding-a2a-payments-adoption-and-trends)
+- [如何使用谷歌的A2A协议构建两个Python代理 - 分步教程](https://docs.kanaries.net/zh/articles/build-agent-with-a2a)
 
 
 ## Blogs/Reference
@@ -29,9 +29,9 @@ A2A is an open protocol enabling communication and interoperability between opaq
 - [Building the industry’s best agentic AI ecosystem with partners](https://cloud.google.com/blog/topics/partners/best-agentic-ecosystem-helping-partners-build-ai-agents-next25)
 
 ### Medias
-- [The Future of AI Collaboration: Google’s Agent2Agent (A2A) Protocol](https://frontbackgeek.com/the-future-of-ai-collaboration-googles-agent2agent-a2a-protocol/)  
-- [Protocols for Agentic AI: Google's New A2A Joins Viral MCP](https://virtualizationreview.com/articles/2025/04/09/protocols-for-agentic-ai-googles-new-a2a-joins-viral-mcp.aspx)  
-- [A2A - jowyang.beehiiv.com](https://jowyang.beehiiv.com/p/a2a)  
+- [The Future of AI Collaboration: Google’s Agent2Agent (A2A) Protocol](https://frontbackgeek.com/the-future-of-ai-collaboration-googles-agent2agent-a2a-protocol/)
+- [Protocols for Agentic AI: Google's New A2A Joins Viral MCP](https://virtualizationreview.com/articles/2025/04/09/protocols-for-agentic-ai-googles-new-a2a-joins-viral-mcp.aspx)
+- [A2A - jowyang.beehiiv.com](https://jowyang.beehiiv.com/p/a2a)
 - [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) 
 
 - [一文看懂谷歌 A2A：它到底是个啥？为什么能带AI Agent 组队开黑？](https://www.53ai.com/news/OpenSourceLLM/2025041006987.html)
@@ -42,7 +42,7 @@ A2A is an open protocol enabling communication and interoperability between opaq
 - [AI Agent大变天！谷歌开源A2A，一夜改变智能体交互](https://www.163.com/dy/article/JSPIETUK05561I4N.html)
 - [AI Agent框架初现！谷歌开源A2A，“MCP+A2A”成未来标配](https://finance.sina.com.cn/roll/2025-04-10/doc-inesrsta3384276.shtml)
 - [谷歌推出 AI 智能体交互协议 Agent2Agent：为智能体带来互操作性](https://finance.sina.com.cn/roll/2025-04-10/doc-inesrwyy5991030.shtml)
-- [多角度全面对比A2A、ANP与MCP协议](https://blog.csdn.net/qq_29434541/article/details/147117254)   
+- [多角度全面对比A2A、ANP与MCP协议](https://blog.csdn.net/qq_29434541/article/details/147117254) 
 
 
 ## Contributing
