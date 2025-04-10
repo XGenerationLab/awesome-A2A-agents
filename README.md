@@ -11,5 +11,6 @@ A2A is an open protocol enabling communication and interoperability between opaq
 
 ## Community agents
 - [pab1it0/google-maps-a2a](https://github.com/pab1it0/google-maps-a2a) An A2A-compliant server that provides Google Maps capabilities including geocoding, reverse geocoding, directions, places search, place details, and distance matrix calculations. Supports multiple input/output formats and provides a standardized agent card for capability discovery.
+  
 # Contributing
-We welcome contributions! 
+We welcome contributions! Please read the [contribution guidelines](https://github.com/XGenerationLab/awesome-A2A-agents/blob/main/CONTRIBUTING.md) before submitting a pull request.
