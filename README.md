@@ -14,6 +14,11 @@ A2A is an open protocol enabling communication and interoperability between opaq
 ### Community agents
 - [pab1it0/google-maps-a2a](https://github.com/pab1it0/google-maps-a2a) An A2A-compliant server that provides Google Maps capabilities including geocoding, reverse geocoding, directions, places search, place details, and distance matrix calculations. Supports multiple input/output formats and provides a standardized agent card for capability discovery.
 
+## Tutorial
+- [How to Build Two Python Agents with Google’s A2A Protocol](https://www.aisharenet.com/a2a/)
+- [Understanding A2A payments: adoption and trends](https://thepaypers.com/understanding-a2a-payments-adoption-and-trends)  
+- [如何使用谷歌的A2A协议构建两个Python代理 - 分步教程](https://docs.kanaries.net/zh/articles/build-agent-with-a2a)  
+
 
 ## Blogs/Reference
 ### Blogs
@@ -29,7 +34,6 @@ A2A is an open protocol enabling communication and interoperability between opaq
 - [A2A - jowyang.beehiiv.com](https://jowyang.beehiiv.com/p/a2a)  
 - [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/) 
 
-- [Google今晚杀疯了：定标准（A2A），发武器(firebase)，祭免费（2.0 Flash）](https://news.qq.com/rain/a/20250410A018F900)
 - [一文看懂谷歌 A2A：它到底是个啥？为什么能带AI Agent 组队开黑？](https://www.53ai.com/news/OpenSourceLLM/2025041006987.html)
 - [谷歌发布 Agent2Agent (A2A) 协议，未来 “MCP+A2A“ 成标配？](https://blog.csdn.net/xiaojunjunliu/article/details/147111595)
 - [A2A协议技术解析与行业影响：AI协作的新纪元](https://blog.csdn.net/qq_29434541/article/details/147113297)
@@ -38,6 +42,8 @@ A2A is an open protocol enabling communication and interoperability between opaq
 - [AI Agent大变天！谷歌开源A2A，一夜改变智能体交互](https://www.163.com/dy/article/JSPIETUK05561I4N.html)
 - [AI Agent框架初现！谷歌开源A2A，“MCP+A2A”成未来标配](https://finance.sina.com.cn/roll/2025-04-10/doc-inesrsta3384276.shtml)
 - [谷歌推出 AI 智能体交互协议 Agent2Agent：为智能体带来互操作性](https://finance.sina.com.cn/roll/2025-04-10/doc-inesrwyy5991030.shtml)
+- [多角度全面对比A2A、ANP与MCP协议](https://blog.csdn.net/qq_29434541/article/details/147117254)   
+
 
 ## Contributing
 We welcome contributions! Please read the [contribution guidelines](https://github.com/XGenerationLab/awesome-A2A-agents/blob/main/CONTRIBUTING.md) before submitting a pull request.
